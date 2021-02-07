@@ -1,7 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Contact list React-redux Web App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-##Prerequisites
+
+## Prerequisites
+
 Install Node JS
 Refer to https://nodejs.org/en/ to install nodejs
 
@@ -12,7 +13,12 @@ npm install -g create-react-app
 
 ## Available Scripts
 
-In the project directory, you can run:
+To get the frontend running locally:
+
+Clone this repo
+
+npm install to install all req'd dependencies
+
 
 ### `npm start`
 
