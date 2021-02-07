@@ -4,5 +4,31 @@ tbody td a{
 tbody td a:hover{
     color: #999;
 }
+a {
+    color: #fff;
+    text-decoration: none;
+    background-color: transparent;
+    padding: 10px;
+}
+a:hover{
+        color: #d8d7d7;
+        text-decoration: none;
+        background-color: transparent;
+        padding: 10px;
+}
 
+.bg-primary {
+    background-color: #316796 !important;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #316796;
+    color: white;
+    font-size: 12px;
+    padding: 10px 0px;
+    text-align: center;
+  }
 
